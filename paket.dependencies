@@ -1,6 +1,7 @@
 source https://nuget.org/api/v2
 
 nuget FSharp.Formatting
+nuget Nancy 1.2.0
 nuget NUnit 
 nuget NUnit.Runners
 nuget FAKE
